@@ -1,0 +1,23 @@
+{
+  "name": "farm0.1",
+  "version": "1.0.0",
+  "description": "a beggining of the project",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidpeled/Farm-0.1.git"
+  },
+  "keywords": [
+    "farm",
+    "watering"
+  ],
+  "author": "David Peled",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidpeled/Farm-0.1/issues"
+  },
+  "homepage": "https://github.com/davidpeled/Farm-0.1#readme"
+}
